@@ -14,7 +14,7 @@
         <Grid.RowDefinitions>
             <RowDefinition Height="50"></RowDefinition>
             <RowDefinition></RowDefinition>
-        </Grid.RowDefinitions>
+        </Grid.RowDefinitions >
 
         <TextBlock Text="Las 4 estaciones" Grid.Row="0" VerticalAlignment="Center" HorizontalAlignment="Center" FontSize="30" FontWeight="Bold" FontFamily="Sylfaen" FontStyle="Italic">
             <TextBlock.Effect>
