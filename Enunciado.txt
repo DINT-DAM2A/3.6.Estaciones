@@ -1,0 +1,10 @@
+6. Diseñar una aplicación que muestre una imagen para las 4 estaciones
+siguiendo las siguientes indicaciones:
+• En esta actividad se debe utilizar un panel de tipo UniformGrid. También es
+necesario emplear el control ScrollViewer.
+• La interfaz debe comportarse al redimensionar la ventana como en el
+ejecutable suministrado.
+• Podéis elegir el tipo de fuente que queráis para el título. También son a
+vuestra elección los colores del fondo de la ventana y del degradado del
+título.
+Nombre del proyecto: Estaciones
